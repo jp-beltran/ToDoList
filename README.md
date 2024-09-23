@@ -26,4 +26,6 @@
 - `style.css`: Estilos utilizados para a aplicação.
 - `script.js`: Lógica para adicionar, marcar e remover tarefas.
 
+
+## 
 > Projeto desenvolvido durante as atividades de monitoria de React na UniCEUB.
