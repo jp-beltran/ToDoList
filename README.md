@@ -1,6 +1,6 @@
 # Todo List 🗒️
 
-## Este repositório contém um projeto de uma aplicação de lista de tarefas (To-do List) desenvolvido como parte das atividades de monitoria de React na faculdade UniCEUB. O objetivo da atividade é proporcionar uma experiência prática com o desenvolvimento de aplicações front-end utilizando React, CSS e JavaScript.
+## Este repositório contém um projeto de lista de tarefas (To-do List) desenvolvido durante a monitoria de React na UniCEUB, visando oferecer uma experiência prática em desenvolvimento de aplicações front-end com React, CSS e JavaScript.
 ![image](https://github.com/user-attachments/assets/b1ea03a2-b8d4-4e92-a283-fbb131219b63)
 
 
