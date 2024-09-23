@@ -21,13 +21,16 @@ body{
 }
 
 .todo-app{
+    max-height: 500px;
     width: 100%;
     max-width: 540px;
     background: white;
     
-    margin: 100px auto 20px;
-    padding: 40px 30px 70px;
+    margin: 100px auto;
+    padding: 40px 30px 30px;
     border-radius: 10px;
+
+    position: fixed;
 
 }
 
@@ -84,6 +87,10 @@ body{
 
 }
 
+ul{
+    overflow-y: scroll;
+    max-height: 250px;
+}
 
 ul li{
 
